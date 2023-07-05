@@ -37,7 +37,7 @@ function displayData(data) {
   fetch(
     "https://api.openweathermap.org/data/2.5/forecast?q=" +
       data.name +
-      "&appid=8981a04d4bc24c1c6cc03d5640d64cf9&units=imperial"
+      "&appid=4c808a8ff9cb2bd78ffe2263a133da00&units=imperial"
   ).then(function (response) {
     response.json().then(function (data) {
       $("#future").empty();
