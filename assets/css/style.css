@@ -1,0 +1,43 @@
+.header {
+  background: linear-gradient(to right, #94cef5, #98e4c8);
+  font-weight: bolder;
+  font-size: x-large;
+  color: #211679;
+}
+
+html {
+  background: #c2e0f4;
+}
+
+* {
+  font-family: "Trebuchet MS", cursive;
+  color: #211679;
+   font-weight: bolder;
+}
+
+#fiveFontColor {
+  color: rgb(58, 91, 153);
+}
+
+.card {
+  background-color: #9dc3d9;
+}
+
+.button {
+  background-color: #9dc3d9;
+  color: #211679;
+  font-weight: bolder;
+}
+
+.list-group-item {
+  background-color: #9dc3d9;
+  color: #211679;
+  font-weight: bolder;
+}
+
+.blue {
+   background-color: #9dc3d9;
+   color: #211679;
+   font-weight:lighter;
+ }
+ 
